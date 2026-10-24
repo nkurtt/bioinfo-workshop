@@ -1,0 +1,6 @@
+name: deneme
+channels:
+  - conda-forge
+  - bioconda
+dependencies: []
+prefix: /opt/conda/envs/deneme
